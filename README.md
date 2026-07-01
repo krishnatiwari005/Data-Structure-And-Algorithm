@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 ## Counting Sort
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 | [3894-traffic-signal-color](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 ## Simulation
