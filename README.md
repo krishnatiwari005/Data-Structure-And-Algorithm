@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2315-count-asterisks) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2833-furthest-point-from-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
 | [3894-traffic-signal-color](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
