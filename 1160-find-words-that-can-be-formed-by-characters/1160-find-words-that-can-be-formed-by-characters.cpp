@@ -1,7 +1,6 @@
 class Solution {
 public:
     int countCharacters(vector<string>& words, string chars) {
-        int n = words.size();
         vector<int> freq(26, 0);
         for (char ch : chars) {
             freq[ch - 'a']++;
