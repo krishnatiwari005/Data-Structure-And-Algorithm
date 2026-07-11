@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
