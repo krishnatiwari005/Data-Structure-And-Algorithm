@@ -1,13 +1,13 @@
 class Solution {
 public:
     int findPermutationDifference(string s, string t) {
-        int ans = 0;
+        vector<int> pos(26, 0);
         for (int i = 0; i < s.size(); i++) {
-            for (int j = 0; j < t.size(); j++) {
-                if (s[i] == t[j]) {
-                    ans += abs(i - j);
-                }
-            }
+            pos[s[i] - 'a'] = i;
+        }
+        int ans = 0;
+        for (int i = 0; i < t.size(); i++) {
+            ans += abs(pos[t[i] - 'a'] - i);
         }
         return ans;
     }
