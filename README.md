@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
