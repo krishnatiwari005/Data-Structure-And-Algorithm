@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [3894-traffic-signal-color](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Geometry
 |  |
