@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
