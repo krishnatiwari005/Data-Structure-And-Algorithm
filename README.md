@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2833-furthest-point-from-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2315-count-asterisks) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3146-permutation-difference-between-two-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3146-permutation-difference-between-two-strings) |
 ## Math
 |  |
