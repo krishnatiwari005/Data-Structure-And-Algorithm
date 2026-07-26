@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0561-array-partition](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
