@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
+| [1816-truncate-sentence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1816-truncate-sentence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
