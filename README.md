@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -225,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
