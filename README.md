@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
