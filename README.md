@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Geometry
