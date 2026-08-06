@@ -1,29 +1,22 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        int c = 0;
-        for (int i = 0; i < words.size(); i++) {
-            string temp = words[i];
-            if (check(allowed, temp)) {
-                c++;
-            }
-        }
-        return c;
-    }
-    bool check(string allowed, string temp) {
-        vector<int> fr(26, 0);
+        int ans = 0;
+        vector<bool> ok(26, false);
         for (char ch : allowed) {
-            fr[ch - 'a']++;
+            ok[ch - 'a'] = true;
         }
-        vector<int> x(26, 0);
-        for (char ch : temp) {
-            x[ch - 'a']++;
-        }
-        for (int i = 0; i < 26; i++) {
-            if (fr[i] == 0 && x[i] > 0) {
-                return false;
+        for (int i = 0; i < words.size(); i++) {
+            bool x = true;
+            for (char ch : words[i]) {
+                if (ok[ch - 'a'] == false) {
+                    x = false;
+                }
+            }
+            if (x) {
+                ans++;
             }
         }
-        return true;
+        return ans;
     }
 };
