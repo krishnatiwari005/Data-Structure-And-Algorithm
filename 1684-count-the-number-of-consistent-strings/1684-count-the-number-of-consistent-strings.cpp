@@ -9,7 +9,7 @@ public:
         for (int i = 0; i < words.size(); i++) {
             bool x = true;
             for (char ch : words[i]) {
-                if (ok[ch - 'a'] == false) {
+                if (!ok[ch - 'a']) {
                     x = false;
                     break;
                 }
