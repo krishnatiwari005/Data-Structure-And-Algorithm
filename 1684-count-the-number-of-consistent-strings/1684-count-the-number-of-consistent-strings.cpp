@@ -11,6 +11,7 @@ public:
             for (char ch : words[i]) {
                 if (ok[ch - 'a'] == false) {
                     x = false;
+                    break;
                 }
             }
             if (x) {
