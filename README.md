@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2595-number-of-even-and-odd-bits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3894-traffic-signal-color](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
