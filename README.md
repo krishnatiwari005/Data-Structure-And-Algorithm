@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2506-count-pairs-of-similar-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
 |  |
 | ------- |
