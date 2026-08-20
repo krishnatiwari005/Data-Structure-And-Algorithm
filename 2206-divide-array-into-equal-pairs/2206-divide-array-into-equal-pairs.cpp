@@ -7,10 +7,10 @@ public:
         }
         int c = 0;
         for (auto it : mpp) {
-            if (it.second % 2 == 0) {
-                c += it.second / 2;
+            if (it.second % 2 != 0) {
+                return false;
             }
         }
-        return c == nums.size() / 2;
+        return true;
     }
 };
