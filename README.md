@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
