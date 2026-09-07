@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3912-valid-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3904-smallest-stable-index-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
