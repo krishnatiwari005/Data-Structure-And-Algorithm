@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0848-shifting-letters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0848-shifting-letters) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2540-minimum-common-value) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
