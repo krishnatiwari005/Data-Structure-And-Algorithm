@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 | [2614-prime-in-diagonal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2651-calculate-delayed-arrival-time) |
+| [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Geometry
 |  |
