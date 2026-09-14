@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
