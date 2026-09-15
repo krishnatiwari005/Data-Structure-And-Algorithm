@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1051-height-checker) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
