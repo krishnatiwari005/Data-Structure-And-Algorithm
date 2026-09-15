@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0507-perfect-number) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0877-stone-game) |
 ## Game Theory
@@ -358,5 +360,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
