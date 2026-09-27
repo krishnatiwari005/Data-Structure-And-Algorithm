@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1678-goal-parser-interpretation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
