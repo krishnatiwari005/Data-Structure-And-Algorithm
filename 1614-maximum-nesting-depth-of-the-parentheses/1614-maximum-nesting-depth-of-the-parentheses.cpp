@@ -1,16 +1,15 @@
 class Solution {
 public:
     int maxDepth(string s) {
+        int depth = 0;
         int ans = 0;
-        int left = 0;
-        int right = 0;
         for (auto ch : s) {
             if (ch == '(') {
-                left++;
+                depth++;
+                ans = max(ans, depth);
             } else if (ch == ')') {
-                right++;
+                depth--;
             }
-            ans = max(ans, abs(left - right));
         }
         return ans;
     }
