@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1844-replace-all-digits-with-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
