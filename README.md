@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0383-ransom-note](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0848-shifting-letters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0848-shifting-letters) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2540-minimum-common-value) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0877-stone-game) |
