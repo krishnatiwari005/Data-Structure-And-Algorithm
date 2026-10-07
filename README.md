@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0392-is-subsequence) |
@@ -431,4 +432,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
