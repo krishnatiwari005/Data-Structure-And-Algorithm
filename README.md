@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sorting
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Geometry
 |  |
 | ------- |
