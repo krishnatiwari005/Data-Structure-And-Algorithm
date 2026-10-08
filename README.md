@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2103-rings-and-rods](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2103-rings-and-rods) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2315-count-asterisks) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2103-rings-and-rods](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2506-count-pairs-of-similar-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2506-count-pairs-of-similar-strings) |
