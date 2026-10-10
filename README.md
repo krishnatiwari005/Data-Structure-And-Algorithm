@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
