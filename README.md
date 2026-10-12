@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0640-solve-the-equation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
