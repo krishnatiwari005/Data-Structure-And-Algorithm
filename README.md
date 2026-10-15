@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3904-smallest-stable-index-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
 | ------- |
