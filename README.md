@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -502,8 +504,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
