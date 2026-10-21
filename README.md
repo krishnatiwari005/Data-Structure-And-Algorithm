@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
