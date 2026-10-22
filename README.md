@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1332-remove-palindromic-subsequences) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1528-shuffle-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
