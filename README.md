@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2595-number-of-even-and-odd-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
