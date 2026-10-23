@@ -5,7 +5,7 @@ public:
         int k = -1;
         for (int i = 0; i < n; i++) {
             if (nums[i] != i) {
-                k = nums[i] & k;
+                k = (nums[i] & k);
             }
         }
         return k == -1 ? 0 : k;
