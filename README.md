@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2409-count-days-spent-together) |
 | [2506-count-pairs-of-similar-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2833-furthest-point-from-origin](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2469-convert-the-temperature) |
