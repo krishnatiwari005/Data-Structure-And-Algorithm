@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linear Algebra
 |  |
 | ------- |
@@ -541,4 +544,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
