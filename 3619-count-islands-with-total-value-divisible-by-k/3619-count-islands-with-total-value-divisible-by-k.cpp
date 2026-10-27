@@ -1,26 +1,33 @@
 class Solution {
 public:
+    int m, n;
+    vector<vector<int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    long long dfs(vector<vector<int>>& grid, int r, int c) {
+        long long sum = grid[r][c];
+        grid[r][c] = 0;
+        for (vector<int>& dir : directions) {
+            int i = r + dir[0];
+            int j = c + dir[1];
+            if (i >= 0 && i < m && j >= 0 && j < n && grid[i][j] > 0) {
+                sum += dfs(grid, i, j);
+            }
+        }
+        return sum;
+    }
     int countIslands(vector<vector<int>>& grid, int k) {
-        int m = grid.size(), n = grid[0].size();
-        int ans = 0;
-        auto dfs = [&](auto&& self, int i, int j) -> long long {
-            if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0) return 0;
-            long long sum = grid[i][j];
-            grid[i][j] = 0;
-            sum += self(self, i + 1, j);
-            sum += self(self, i - 1, j);
-            sum += self(self, i, j + 1);
-            sum += self(self, i, j - 1);
-            return sum;
-        };
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
+        m = grid.size();
+        n = grid[0].size();
+        int count = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (grid[i][j] > 0) {
-                    long long s = dfs(dfs, i, j);
-                    if (s % k == 0) ++ans;
+                    long long sum = dfs(grid, i, j);
+                    if (sum % k == 0) {
+                        count++;
+                    }
                 }
             }
         }
-        return ans;
+        return count;
     }
 };
