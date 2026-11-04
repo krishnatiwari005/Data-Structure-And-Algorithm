@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
 |  |
 | ------- |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0877-stone-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
