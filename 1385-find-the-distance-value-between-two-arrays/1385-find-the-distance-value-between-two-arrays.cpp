@@ -1,21 +1,21 @@
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        int c = 0;
-        bool ch;
+        int count = 0;
+        bool check;
         for (int i = 0; i < arr1.size(); i++) {
             for (int j = 0; j < arr2.size(); j++) {
                 if (abs(arr1[i] - arr2[j]) <= d) {
-                    ch = false;
+                    check = false;
                     break;
                 } else {
-                    ch = true;
+                    check = true;
                 }
             }
-            if (ch) {
-                c++;
+            if (check) {
+                count++;
             }
         }
-        return c;
+        return count;
     }
 };
