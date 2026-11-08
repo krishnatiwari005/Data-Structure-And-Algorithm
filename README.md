@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1051-height-checker](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1267-count-servers-that-communicate](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linear Algebra
 |  |
@@ -571,10 +575,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
