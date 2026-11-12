@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
