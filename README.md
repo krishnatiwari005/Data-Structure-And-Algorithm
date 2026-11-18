@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2103-rings-and-rods) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2315-count-asterisks) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2427-number-of-common-factors](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
